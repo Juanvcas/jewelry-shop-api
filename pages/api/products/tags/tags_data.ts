@@ -19,6 +19,11 @@ export const tags: Tags[] = [
 	},
 	{
 		id: id++,
+		title: 'Bisutería',
+		others: ['orfebrería', 'oropel'],
+	},
+	{
+		id: id++,
 		title: 'Bodas',
 		others: ['Boda', 'Matrimonio'],
 	},
